@@ -1,25 +1,25 @@
-# Aromera Perfumes 🧴
+# 🌸 Aromera Perfumes 🧴✨
 
-Aromera Perfumes is a beautifully designed perfume e-commerce website offering a smooth and elegant user experience. Built using modern web technologies, it provides seamless navigation between pages like Home, Shop, About, and Contact.
+Aromera Perfumes is a sleek and modern e-commerce website for perfume shopping. Built with React and designed for a smooth, user-friendly experience. Browse a collection of fine perfumes and explore our offerings in an elegant UI.
 
 ---
 
 ## ✨ Features
 
-- 💄 Clean, responsive UI with modern styling
-- 🔁 Smooth page transitions
-- 🛍️ Shop section to display products
-- 📞 Contact form integration
-- 📜 Scroll-to-top on route change
-- ⚡ Built with React and React Router
+- 💄 **Responsive UI** – A clean and modern design for all screen sizes.
+- 🔁 **Smooth Page Transitions** – Effortless navigation between Home, Shop, About, and Contact.
+- 🛍️ **Product Display** – An elegant shop section showcasing the perfumes.
+- 📞 **Contact Form** – Easy-to-use contact form for customer inquiries.
+- 🧴 **Perfume Bottle Icons** – Styled perfume icons representing each product.
+- ⚡ **Built with React** – Fast and efficient with React Router DOM.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, React Router DOM
-- **Styling**: CSS / Tailwind CSS / styled-components (update based on what you used)
-- **Version Control**: Git + GitHub
+- **Frontend**: React.js, React Router
+- **Styling**: CSS / Tailwind CSS 
+- **Version Control**: Git, GitHub
 
 ---
 
@@ -27,18 +27,34 @@ Aromera Perfumes is a beautifully designed perfume e-commerce website offering a
 
 ### Prerequisites
 
-- Node.js and npm installed
+- Node.js and npm installed on your machine.
 
 ### Installation
 
-```bash
-git clone https://github.com/your-username/Aromera-Perfumes.git
-cd Aromera-Perfumes
-npm install
-npm start
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/Meet2206/Aromera.Perfumes.git
 ````
 
-The app will run locally at `http://localhost:3000`
+2. Navigate to the project directory:
+  ```bash
+   cd Aromera.Perfumes
+   ````
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+The app should now be running locally at local host server
 
 ---
 
@@ -54,16 +70,16 @@ Aromera-Perfumes/
 │   └── index.js
 ├── package.json
 └── README.md
-```
+````
 
 ---
 
-## ✅ TODOs
+## ✅ Future Enhancements
 
-* [x] Scroll to top on route change
-* [ ] Add product cart and checkout system
-* [ ] Integrate payment gateway
-* [ ] Deploy to Vercel or Netlify
+* [ ] Add product filtering and sorting by categories or price.
+* [ ] Integrate a shopping cart and checkout system.
+* [ ] Payment gateway integration for online purchases.
+* [ ] Deploy to platforms like **Vercel** or **Netlify** for live access.
 
 ---
 
