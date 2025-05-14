@@ -76,10 +76,10 @@ Aromera-Perfumes/
 
 ## ✅ Future Enhancements
 
-* [ ] Add product filtering and sorting by categories or price.
-* [ ] Integrate a shopping cart and checkout system.
-* [ ] Payment gateway integration for online purchases.
-* [ ] Deploy to platforms like **Vercel** or **Netlify** for live access.
+* -> Add product filtering and sorting by categories or price.
+* -> Integrate a shopping cart and checkout system.
+* -> Payment gateway integration for online purchases.
+* -> Deploy to platforms like **Vercel** or **Netlify** for live access.
 
 ---
 
